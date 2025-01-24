@@ -1,0 +1,14 @@
+#Adding the list of technical project ideas which will be completed by team and added to the repos 
+#This repo is open for all to add list of interesting ML/Python projects that can be good adddition to profile.
+
+—> Zomato Clone
+—> Dashboard e-commerce 
+
+—> Tipsy Games
+—> OTP Login Dashboard
+—> Pokedex - with UI
+—> QR code - Marketplace 
+—> Dynamic Facial Detection system (Py)
+—> SOS Alert Sender - (	Name, GPS, Location)
+—> House Price Prediction
+—> Avenger-pedia (Similar to Pokedex)
